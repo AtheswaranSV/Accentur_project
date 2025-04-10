@@ -1,2 +1,2 @@
-# Accentur_project
+# Accenture_project
 Hackathon project
